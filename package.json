@@ -1,0 +1,19 @@
+{
+  "name": "webpack-suit-up",
+  "version": "1.0.0",
+  "description": "Simple CLI for generating Webpack configuration boilerplate.",
+  "main": "index.js",
+  "repository": "https://github.com/areknawo/webpack-suit-up",
+  "author": "areknawo",
+  "license": "MIT",
+  "bin": {
+    "webpack-suit-up": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.19.0",
+    "enquirer": "^2.3.0",
+    "prettier": "^1.16.1",
+    "shelljs": "^0.8.3"
+  }
+}
