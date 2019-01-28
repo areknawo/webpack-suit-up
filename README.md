@@ -10,5 +10,6 @@ And run it inside choosen NPM project directory with:
 ```bash
 webpack-suit-up
 ```
-*Keep in mind that configurator will override any existing webpack configs in root directory!*
+**Keep in mind that configurator will override any existing webpack configs in root directory!**
+
 Let the CLI options guide you from here!
